@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/Downloads/javax.persistence.jar/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/byte-buddy-1.12.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/hibernate-core-5.6.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/jboss-logging-3.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/OneDrive/Documents/required/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bouri/Downloads/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
